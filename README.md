@@ -1,4 +1,11 @@
 ### fetch 
-1.support fetch abort
-2.support fetch timeout
-3.support fetch progress
+1. fetch abort
+
+2. fetch timeout
+
+3. fetch progress
+
+### how to run example
+1. yarn
+2. node server.js
+

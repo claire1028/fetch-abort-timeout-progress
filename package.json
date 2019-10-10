@@ -1,0 +1,28 @@
+{
+  "name": "fetch-abort-timeout-progress",
+  "version": "1.0.0",
+  "description": "1.support fetch abort",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claire1028/fetch-abort-timeout-progress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claire1028/fetch-abort-timeout-progress/issues"
+  },
+  "homepage": "https://github.com/claire1028/fetch-abort-timeout-progress#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
